@@ -50,7 +50,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="MaximumLengthDifferenceTest.cs" />
+    <Compile Include="MaximumLengthDifference\MaxDiffLength.cs" />
+    <Compile Include="MaximumLengthDifference\MaximumLengthDifferenceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>
