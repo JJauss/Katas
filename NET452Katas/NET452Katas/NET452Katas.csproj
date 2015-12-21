@@ -45,13 +45,17 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
   <ItemGroup>
     <Compile Include="MaximumLengthDifference\MaxDiffLength.cs" />
     <Compile Include="MaximumLengthDifference\MaximumLengthDifferenceTest.cs" />
+    <Compile Include="PronicNumber\Kata.cs" />
+    <Compile Include="PronicNumber\PronicNumberTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>
