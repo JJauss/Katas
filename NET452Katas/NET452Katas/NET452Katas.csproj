@@ -52,6 +52,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ExcelToNumber\ExcelToNumber.cs" />
+    <Compile Include="ExcelToNumber\ExcelToNumberTests.cs" />
     <Compile Include="MaximumLengthDifference\MaxDiffLength.cs" />
     <Compile Include="MaximumLengthDifference\MaximumLengthDifferenceTest.cs" />
     <Compile Include="PronicNumber\Kata.cs" />
