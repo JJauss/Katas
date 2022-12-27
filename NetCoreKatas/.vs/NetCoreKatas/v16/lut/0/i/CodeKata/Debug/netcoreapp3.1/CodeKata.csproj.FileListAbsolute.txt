@@ -1,0 +1,12 @@
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\CodeKata.deps.json
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\CodeKata.runtimeconfig.json
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\CodeKata.runtimeconfig.dev.json
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\b\CodeKata\Debug\netcoreapp3.1\CodeKata.dll
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\i\CodeKata\Debug\netcoreapp3.1\CodeKata.AssemblyInfoInputs.cache
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\i\CodeKata\Debug\netcoreapp3.1\CodeKata.AssemblyInfo.cs
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\i\CodeKata\Debug\netcoreapp3.1\CodeKata.csproj.CopyComplete
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\i\CodeKata\Debug\netcoreapp3.1\CodeKata.dll
+D:\Src\jjauss\Katas\NetCoreKatas\.vs\NetCoreKatas\v16\lut\0\i\CodeKata\Debug\netcoreapp3.1\CodeKata.genruntimeconfig.cache

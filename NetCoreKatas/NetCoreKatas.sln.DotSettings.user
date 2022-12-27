@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38f00c1a_002De09a_002D480c_002Dad9d_002D93b80a2d6731/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9B44A631-707A-4E15-94C5-E6041EDDBA73::.NETCoreApp,Version=v3.1::CodeKata.SumSquareDivisors.SumSquaredDivisorsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54c3694c_002Deac2_002D4972_002D8ab5_002D49165b892e4d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TheObservedPINTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9B44A631-707A-4E15-94C5-E6041EDDBA73::.NETCoreApp,Version=v3.1::CodeKata.KataTests.TheObservedPINTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7455ae26_002D335a_002D481f_002Dbc61_002D594a327fa8bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SumSquaredDivisorsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::9B44A631-707A-4E15-94C5-E6041EDDBA73::.NETCoreApp,Version=v3.1::CodeKata.SumSquareDivisors.SumSquaredDivisorsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
